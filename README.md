@@ -23,3 +23,9 @@ Desenvolvedor Fullstack, com habilidades comprovadas em liderança e pensamento 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-severo-6bb5062b7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:joaopedroseveros2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
