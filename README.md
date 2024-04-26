@@ -18,3 +18,8 @@ Desenvolvedor Fullstack, com habilidades comprovadas em liderança e pensamento 
 
 ## Linguagens e Ferramentas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosevero01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-severo-6bb5062b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
