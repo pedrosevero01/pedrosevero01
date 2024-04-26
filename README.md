@@ -28,4 +28,9 @@ Desenvolvedor Fullstack, com habilidades comprovadas em liderança e pensamento 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/5585997724092?text=Ol%C3%A1%2C%20entrei%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20seu%20GitHub.">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+
 
