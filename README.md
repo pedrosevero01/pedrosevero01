@@ -5,10 +5,10 @@
 Desenvolvedor Fullstack, com habilidades comprovadas em liderança e pensamento criativo. Comprometido com o aprendizado contínuo e sempre em busca de novos conhecimentos. Pronto para enfrentar desafios e colaborar em projetos que exijam excelência técnica, inovação e trabalho em equipe.
 
 - 🔭 Atualmente estou estudando na UNIFOR
-- 🌱 Estou aprendendo algorítimo em Python
+- 🌱 Estou aprendendo POO em Java
 - 👯 Estou procurando colaborar em projetos Fullstack
 - 🤔 Estou procurando ajuda com Git e Github
-- 💬 Pergunte-me sobre POO em python
+- 💬 Pergunte-me sobre JavaScript
 - 📫 Como entrar em contato comigo: joaopedroseveros2@gmail.com
 - ⚡ Curiosidade: Gosto muito de liderar e aprender coisas novas
 
